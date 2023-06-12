@@ -1,6 +1,6 @@
 # Sample_Dependency Injection_Project
 ---
-> ###It is a sample Dependency Injection Project
+> ### It is a sample Dependency Injection Project
 ---
 * It is the comparison of tight coupling and slightly better than the first code.
 ---
